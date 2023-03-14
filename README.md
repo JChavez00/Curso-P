@@ -1,2 +1,1 @@
-# Curso-P
-repositorio de prueba 
+este proyecto es de prueba de clonacion
